@@ -1,0 +1,14 @@
+.colors{background:linear-gradient(to right,#003973,#e5e5be)}*{color:#00f}html,body{position:relative;right:150px;margin:0;padding:0;height:100%;display:flex;justify-content:center;align-items:center;overflow:hidden}#game-container{position:relative;width:600px;height:600px}#input-container{position:absolute;bottom:400px;width:100%;display:flex;justify-content:center}input[type=text]{position:relative;top:200px;left:500px;font-size:16px;padding:5px;width:80%;max-width:600px}
+.rules {
+  position: relative;
+  bottom: 275px;
+  left: 500px;
+  font-size: 34px;
+  color: black;
+}
+
+.list {
+  position: relative;
+  left: 400px;
+  bottom: 150px;
+}
